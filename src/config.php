@@ -10,4 +10,4 @@ define('DBPass', 'demodemo');
 define('AWSRegion', 'us-west-2');
 
 //AWS S3 config
-define('S3Bucket', 'demo-eva123');
+define('S3Bucket', 'demo-eva456');
